@@ -1,3 +1,4 @@
+
 package iducs.java.b;
 
 public class VipCustomer extends Customer {
