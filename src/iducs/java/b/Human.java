@@ -8,7 +8,8 @@ public class Human extends Mammal {
 		// TODO Auto-generated method stub
 		System.out.println("걷고, 뛰고, 기고, 메달리고");
 	}
-	// Method Overloading
+	// Method Overloadi
+	
 	public void move(String transport) { // 구현에 대한 기준을 바탕으로 실제 구현
 		// TODO Auto-generated method stub
 		System.out.println(transport + "를 타고 이동한다.");
